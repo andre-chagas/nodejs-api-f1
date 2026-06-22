@@ -17,3 +17,10 @@ Excelente projeto para demonstrar a criação de rotas, manipulação de parâme
    ```bash
    git clone <url-do-seu-repositorio>
    cd node-f1
+
+## 🏅 Créditos
+
+Este projeto foi desenvolvido como resolução de um desafio prático proposto pela **[DIO (Digital Innovation One)](https://www.dio.me/)**. Todos os créditos pela idealização da arquitetura base do desafio são direcionados à plataforma e aos seus instrutores.
+
+---
+*Desenvolvido com dedicação e foco em performance no backend.*
